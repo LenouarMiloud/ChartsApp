@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="anonymos.miloud.com.chartapp.MainActivity">
+
+    <Button
+        android:id="@+id/RadarChart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/radar_chart"/>
+
+    <Button
+        android:id="@+id/BarChart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bar_chart"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/PieChart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pie_chart"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
