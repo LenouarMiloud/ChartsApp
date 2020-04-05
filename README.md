@@ -8,6 +8,13 @@
 
 ![BarCapture](https://user-images.githubusercontent.com/29558298/78462073-fe4cad80-76ce-11ea-9cb6-a173c983e276.JPG)
 
+## 2. Pie Chart :
+      A pie chart (or a circle chart) is a circular statistical graphic, which is divided into slices to illustrate 
+      numerical proportion. In a pie chart, the arc length of each slice (and consequently its central angle 
+      and area),is proportional to the quantity it represents. While it is named for its resemblance toa pie which
+      has been sliced,there are variations on the way it can be presented. The earliest known pie chart is generally
+      credited to William Playfair's Statistical Breviary of 1801
+
 ## Library
 
 - you must write this line in the gradle file 
