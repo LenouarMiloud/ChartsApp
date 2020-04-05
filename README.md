@@ -1,4 +1,4 @@
-# ChartsApp
+# ChartsApp :computer: :mortar_board:
 
 ## 1. Bar Chart :
 
@@ -14,9 +14,12 @@
       and area),is proportional to the quantity it represents. While it is named for its resemblance toa pie which
       has been sliced,there are variations on the way it can be presented. The earliest known pie chart is generally
       credited to William Playfair's Statistical Breviary of 1801
+      
+![PieCapture](https://user-images.githubusercontent.com/29558298/78501345-a1e39f80-775b-11ea-903e-e840379d40df.JPG)
 
-## Library
 
-- you must write this line in the gradle file 
+## Library :heavy_check_mark:
+
+- you must write this line in the gradle file and go on :smile:
 
   - implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
