@@ -23,6 +23,9 @@
       and angle of the axes is typically uninformative, but various heuristics, such as algorithms that plot data as
       the maximal total area, can be applied to sort the variables (axes) into relative positions that reveal distinct
       correlations, trade-offs, and a multitude of other comparative measures
+      
+![RadarCapture](https://user-images.githubusercontent.com/29558298/79798170-e1fc7200-8358-11ea-86a2-f7d099a3552e.JPG)
+      
 
 
 ## Library :heavy_check_mark:
