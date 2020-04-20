@@ -17,6 +17,13 @@
       
 ![PieCapture](https://user-images.githubusercontent.com/29558298/78501345-a1e39f80-775b-11ea-903e-e840379d40df.JPG)
 
+## 3. Radar Chart : 
+      A radar chart is a graphical method of displaying multivariate data in the form of a two-dimensional chart of 
+      three or more quantitative variables represented on axes starting from the same point. The relative position 
+      and angle of the axes is typically uninformative, but various heuristics, such as algorithms that plot data as
+      the maximal total area, can be applied to sort the variables (axes) into relative positions that reveal distinct
+      correlations, trade-offs, and a multitude of other comparative measures
+
 
 ## Library :heavy_check_mark:
 
